@@ -1,0 +1,86 @@
+body {
+  font-family: "montserrat";
+  text-align: center;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+  font-family: "Book Antiqua,Palatino,Palatino Linotype,Palatino LT STD,Georgia,serif; ";
+}
+
+h2 {
+
+  font-size: 2.5rem;
+  line-height: 1.5;
+
+}
+
+p {
+  color: grey;
+}
+
+.heading{
+  padding: 3%;
+}
+.display-2{
+  font-family: Book Antiqua,Palatino,Palatino Linotype,Palatino LT STD,Georgia,serif;
+   font-weight: normal;
+   font-size: 8rem;
+}
+
+/*navigation-bar*/
+.navbar {
+  padding-bottom: 1rem;
+  width:100%;
+}
+
+.navbar-brand {
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 4px 12px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: "montserrat-light";
+}
+
+.games-type {
+  padding: 3% 2%;
+  margin:40px;
+  text-align: center;
+
+}
+.first{
+  margin-left:120px;
+}
+
+.card-img-top{
+  width: 40%;
+  text-align: center;
+}
+
+
+#testimonials {
+  background-color:white;
+
+}
+
+.testimonial-image {
+  width: 85%;
+  margin-top:50px;
+  margin-bottom: 30px;
+}
+/* footer */
+#footer{
+  margin: 10px;
+  font-size: 1rem;
+  font-family: cursive;
+}
+.foot{
+  margin: 10px;
+}
